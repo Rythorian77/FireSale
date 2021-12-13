@@ -1,0 +1,10 @@
+C:\Users\justin.ross\source\repos\FireSale\FireSale\bin\Debug\FireSale.exe.config
+C:\Users\justin.ross\source\repos\FireSale\FireSale\bin\Debug\FireSale.exe
+C:\Users\justin.ross\source\repos\FireSale\FireSale\bin\Debug\FireSale.pdb
+C:\Users\justin.ross\source\repos\FireSale\FireSale\obj\Debug\FireSale.csproj.AssemblyReference.cache
+C:\Users\justin.ross\source\repos\FireSale\FireSale\obj\Debug\FireSale.Form1.resources
+C:\Users\justin.ross\source\repos\FireSale\FireSale\obj\Debug\FireSale.Properties.Resources.resources
+C:\Users\justin.ross\source\repos\FireSale\FireSale\obj\Debug\FireSale.csproj.GenerateResource.cache
+C:\Users\justin.ross\source\repos\FireSale\FireSale\obj\Debug\FireSale.csproj.CoreCompileInputs.cache
+C:\Users\justin.ross\source\repos\FireSale\FireSale\obj\Debug\FireSale.exe
+C:\Users\justin.ross\source\repos\FireSale\FireSale\obj\Debug\FireSale.pdb
